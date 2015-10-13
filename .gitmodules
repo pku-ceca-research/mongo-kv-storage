@@ -1,0 +1,9 @@
+[submodule "mongo"]
+	path = mongo
+	url = git@github.com:pku-ceca-research/mongo.git
+[submodule "mongo-rocks"]
+	path = mongo-rocks
+	url = git@github.com:pku-ceca-research/mongo-rocks.git
+[submodule "rocksdb"]
+	path = rocksdb
+	url = git@github.com:pku-ceca-research/rocksdb.git
